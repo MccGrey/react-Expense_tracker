@@ -20,8 +20,9 @@ function Expenses(props) {
           onFilterChange={filterChangeHandler}
         />
 
-        {props.items.map((Expenses) => (
+        {props.items.map((Expenses, index) => (
           <ExpenseItem
+            key={index}
             title={Expenses.title}
             amount={Expenses.amount}
             date={Expenses.date}
