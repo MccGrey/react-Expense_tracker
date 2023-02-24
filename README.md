@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [MccGre-Kanban-App](https://mccgrey-kanbanapp.netlify.app/)
+- Live Site URL: [MccGrey-extracker](https://mccgrey-extracker.netlify.app/)
 
 ### Built with
 
